@@ -44,7 +44,7 @@ This week I realised that I'll have to do more work for my dissertation later on
 
 
 ### Staying committed to a task (Dispositional domain)
-Time and time again I keep telling myself I'll do this or that to stay committed to my tasks, but it hasn't worked out. One of the suggestions I remember receiving was to get a physical calendar, which I've tried for a while but didn't end up sticking to it, nor a virtual one. I've recently (couple months ago) made my own private Discord server with different channels in it for general programming, uni work, personal thoughts (similar to a journal), etc. which has worked so far for some module tasks as it is both convenient and something I'm more familiar with that I use on a daily basis. I will try this as a solution for this skill which I think will work more effectively in the long term. 
+Time and time again I keep telling myself I'll do this or that to stay committed to my tasks, but it hasn't worked out. One of the suggestions I remember receiving was to get a physical calendar, which I've tried for a while but didn't end up sticking to it, nor a virtual one. I've recently (and by "recently", I really mean a couple months ago) made my own private Discord server with different channels in it for general programming, uni work, personal thoughts (similar to a journal), etc. which has worked so far for most module tasks as it is both convenient and something I'm more familiar with that I use on a daily basis. I will try this as a solution for this skill which I think will work more effectively in the long term. 
 
 
 ### Asking for help (Interpersonal domain)
