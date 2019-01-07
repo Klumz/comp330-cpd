@@ -31,11 +31,13 @@ This week I've been working vigorously on my dissertation as the deadline is nea
 ### Week Ten
 This week I submitted my NES game which I feel neutral about. I did enough to make *some* semblance of a game, but very poorly. I think it is enough to pass, but I will admit I'm a bit disappointed over myself as I initially felt this game idea had potential. It was cool to see it actually work, but it could've been more. I will keep moving forward and learn from this. 
 
-### Week Eleven
+This week we also submitted our comp320 dissertation proposal. I ended up focusing too much on what to write and how to synergise my sources, and not enough on actually getting words down. I honestly don't know how this will turn out, but I'm hoping for the best. At the very least, this task is done with and I can focus on the other upcoming ones such as the dissertation artefact.
 
+### Week Eleven
+This week I've mostly been focusing on how to add the email functionality for our Agency team task/self-harm application. Everyone else in the group have swiftly done their parts, so I had to quickly contribute something of mine or risk facing later difficulties. I managed to add the email functionality, but unfortunately not quite the way I planned for it to work. Although, we'll be using the Unity version for the actual app that other group members worked on which seemed more complete.
 
 ### Week Twelve
-
+This week I realised that I'll have to do more work for my dissertation later on as a result of the low word count, but for now I will have to focus on the artefact/component aspect of it. I have a good idea of how it'll be, although implementing it is another story.
 
 
 ## Challenges and SMART Goals:
