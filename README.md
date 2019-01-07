@@ -17,13 +17,13 @@ I was right: Assembly is, to say the least, very different. I've been struggling
 This week consisted of our comp330 Javascript application peer reviews. I am working on a simple game similar to Pong, but I somehow made it more unique by accidentally adjusting my code differently than I had in mind, which gave me an idea. In conclusion, *Russian Pong* was born. I'm way behind my dissertation work so I've been looking hard for sources to use, as well as making sure the ethics related documents are sufficient for submission. 
 
 ### Week Six
-This week was reading week. I've been working on my dissertation and NES game. Nothing much to be said for this week, just focusing on getting good progress with my tasks. Current dissertation word count is too low, so I will prioritise this for now.
+This week was reading week. I've been working on my dissertation and NES game. Nothing much to be said for this week, just focusing on getting good progress with my tasks. Current dissertation word count is too low, so I will prioritise this for now. In terms of our Agency team, after several discussions, we ended up going our own ways where the BAs will work on their own game while we BScs will continue working on the freelance tasks. 
 
 ### Week Seven
 This week was the week we presented our dissertation findings. I, however, decided to send a video presentation instead as I did not feel confident with what I had. This went smoothly and, unsurprisingly, I enjoyed doing it more than presenting physically. I received great feedback, although I still feel I don't have a good grasp over my methodology. It's still a bit early to worry over it, but time goes fast. 
 
 ### Week Eight
-
+This week, we had a peer review for our dissertation work. Feedback was informative, although I will admit there was a slight difference in student feedback and lecturer feedback which I found amusing. I've postponed other module tasks to increase my dissertation word count, as it is *still* lacking despite me having a good amount of sources. My issue is synergising them which is what takes up most of my time.
 
 ### Week Nine
 
