@@ -26,10 +26,10 @@ This week was the week we presented our dissertation findings. I, however, decid
 This week, we had a peer review for our dissertation work. Feedback was informative, although I will admit there was a slight difference in student feedback and lecturer feedback which I found amusing. I've postponed other module tasks to increase my dissertation word count, as it is *still* lacking despite me having a good amount of sources. My issue is synergising them which is what takes up most of my time.
 
 ### Week Nine
-
+This week I've been working vigorously on my dissertation as the deadline is near. It's been a struggle, but I think the quality of what I've written is good. Quantity not so much. I've also been working on our Agency team app, specifically at how to email the relevant information that was filled in by the user to the doctor. I still need to get used to the Xamarin tool, but progress is okay. 
 
 ### Week Ten
-
+This week I submitted my NES game which I feel neutral about. I did enough to make *some* semblance of a game, but very poorly. I think it is enough to pass, but I will admit I'm a bit disappointed over myself as I initially felt this game idea had potential. It was cool to see it actually work, but it could've been more. I will keep moving forward and learn from this. 
 
 ### Week Eleven
 
