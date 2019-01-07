@@ -38,3 +38,6 @@
 
 ### Week Twelve
 
+
+
+## Challenges and SMART Goals:
