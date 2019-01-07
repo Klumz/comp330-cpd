@@ -41,3 +41,13 @@ This week I realised that I'll have to do more work for my dissertation later on
 
 
 ## Challenges and SMART Goals:
+
+
+### Staying committed to a task (dispositional domain)
+Time and time again I keep telling myself I'll do this or this to stay committed to my tasks, but it hasn't worked out. One of the suggestions I remember receiving was to get a physical calendar, which I've tried for a while but didn't end up sticking to it. Nor did a virtual one. I've recently made my own private Discord server with different channels in it for general programming, uni work, personal thoughts (similar to a journal), etc. which has worked so far for some module tasks as it is both convenient and something I'm more familiar with that I use on a daily basis. I will try this as a solution for this skill which I think will work more effectively in the long term. 
+
+
+### Asking for help (interpersonal domain)
+This is a skill I struggled with last year as well. I'd like to say this has improved, but in reality it hasn't. There have been several cases where a simple issue could be solved by simply asking either my peers or lecturers online but I didn't. Even communicating with my peers have at times been difficult, e.g. saying what I'm working on for our group task or just speaking up my thoughts. I will try to do more active participation than passive where I push myself forward to talk/ask what I have in mind rather than idly observing. This is something I've struggled with most of my life, and it will have to change. I'm not sure what solution to go for specifically for this skill other than to change/adapt my mindset when necessary and read/watch videos on improving basic communication skills.
+
+### 
