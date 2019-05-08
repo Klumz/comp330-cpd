@@ -1,4 +1,4 @@
-# Comp340 CPD
+# Comp340 CPD 
 ## Week One - 28th January
 Unsurprisingly, the week after returning from Christmas is always the tough one. This week we were introduced to comp340. I've already read the tasks beforehand so I know what to expect, although a bit worried about the game source code submission as I don't have a clear goal of what to do since I'm part of the Agency team, and most of the work has already been done. Will need to find my lecturers Michael or Gareth to discuss my role in a bit more depth. 
 
@@ -15,6 +15,26 @@ This week I've been working on setting up the materials I need for the comp350 b
 This week I submitted my comp350 blog for my peer review and received good introductory feedback. I learned that I need to explain in more depth what I intend to do with my project in a more technical manner. 
 
 ## Week Six - 4th March
+This week was studio practice week. I utilised my time by spending it on various tasks such as my dissertation artefact, little bit of research, and my optimisation task. Not much else to say for this week.
+
+## Week Seven - 11th March
+This week was show and tell day. Although I spent most of my time focusing on my dissertation artefact. It is surprisingly enjoyable. Having to go into the mindset of players and implement features is probably my most favourite part of this module. Although I should start thinking about other tasks too, as I've been neglecting them such as the comp340 one where I need to look at a feedback generator that was assigned to me.
+
+## Week Eight - 18th March
+This week I worked on my artefact.
+
+## Week Nine - 25th March
+This week I submitted the professional practice report for comp. Regrettably, I left this task  to the last minute which resulted in me looking for professionals online from a subreddit than from actual work sites/companies. The results could have been better, but it went well overall as I got a good amount of feedback from 2-3 experts in the field. To avoid this in the future, I will be sure to ask for advice beforehand on such tasks to avoid producing subpar work. 
+
+## Week Ten - 1st April
+This week was mostly spent on artefact work. 
+
+
+## Week Eleven - 8th April
+This week I looked at the comp340 task I still need to do, which was the feedback generator task. I previously produced a poster for another submission for this that explained what I currently have, which doesn't really have any form of code in it as it relied on using add-ons for Google Sheets/Docs. I will have to try actually writing something similar to these add-ons, and demonstrate the more technical side of things.
+
+## Week Twelve - 29th April
+This week I noticed that I saved data collection for my dissertation very late. I've had to scramble around in the Games Studio looking for participants to play-test my artefact/game, however was rejected multiple times as a result of various deadlines this week. To counter this in the future, avoid spending too much time on refining the artefact and focus on balancing workload so I don't save everything last minute.
 
 
 
