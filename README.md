@@ -11,8 +11,10 @@ This week we had a lecture on our dissertations and how to assess their quality.
 ## Week Four - 18th February
 This week I've been working on setting up the materials I need for the comp350 blog task, especially for the peer review next week. I think I will stick with the idea of optimising my 2nd year game due to its familiarity, so I will start writing about it on my blog. Not much else this week comes to mind other than the constant stress of dissertation work needing to be done. 
 
-Week Five - 25th February
-This week 
+## Week Five - 25th February
+This week I submitted my comp350 blog for my peer review and received good introductory feedback. I learned that I need to explain in more depth what I intend to do with my project in a more technical manner. 
+
+## Week Six - 4th March
 
 
 
