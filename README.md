@@ -1,6 +1,24 @@
+# Comp340 CPD
+## Week One - 28th January
+Unsurprisingly, the week after returning from Christmas is always the tough one. This week we were introduced to comp340. I've already read the tasks beforehand so I know what to expect, although a bit worried about the game source code submission as I don't have a clear goal of what to do since I'm part of the Agency team, and most of the work has already been done. Will need to find my lecturers Michael or Gareth to discuss my role in a bit more depth. 
+
+## Week Two - 4th February
+This week we were introduced to the comp350 Algorithms & Optimisation module. Slightly worried about this one because optimising code assumes the coder already knows the ins and outs/underlying knowledge of the project's code, which I often have an issue with. I have a vague idea on how to counter this, which is to use my 2nd year game, Sol Tenebrae, as my optimisation project. This is chosen because it was made in Unreal Engine 4 which has blueprints (its own visual scripting system), a system I'm familiar with. But for now, I will focus on the research journal task due on the 12th. 
+
+## Week Three - 11th February
+This week we had a lecture on our dissertations and how to assess their quality. I should start spending more time on mine, because I've been slacking with it due to the fact that there's still a few more months left to submit it. I will start reading up on the research I will need to at least be somewhat prepped later down the line. 
+
+## Week Four - 18th February
+This week I've been working on setting up the materials I need for the comp350 blog task, especially for the peer review next week. I think I will stick with the idea of optimising my 2nd year game due to its familiarity, so I will start writing about it on my blog. Not much else this week comes to mind other than the constant stress of dissertation work needing to be done. 
+
+Week Five - 25th February
+This week 
+
+
+
 ## Weekly Reports
 
-### Week One
+C Week One
 This week consisted of introductions for our modules and final year project teams. I couldn't find a team that was available so I was assigned to an "Agency" team where we will be given work from people outside the university rather than working on a game. The team I am in consists of 8 BSc programmers and 8 BA students. Hopefully, I will still be able to apply my knowledge as more is revealed about our tasks.
 
 ### Week Two
